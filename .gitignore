@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Project-specific generated output
+test_output/
+reports/
+*.pdf
+
+# Secrets — NEVER commit API keys or tokens
+.env
+.env.*
+secrets.*
+api_key*
+*.key
+*.token
+config.local.*
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude AI workspace (local config and memory — not part of the project)
+.claude/
