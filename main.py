@@ -11,7 +11,7 @@ Usage:
     # API token via interactive secure prompt (never stored)
     python main.py --url https://your-console.sentinelone.net --storyline "0000C2E97648XXXX"
 
-Author: Florian Bertaux — Made by Claude AI
+Author: Florian Bertaux
 Version: 1.4.0
 """
 from __future__ import annotations

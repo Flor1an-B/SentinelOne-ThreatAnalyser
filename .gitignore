@@ -46,5 +46,5 @@ config.local.*
 Thumbs.db
 desktop.ini
 
-# Claude AI workspace (local config and memory — not part of the project)
+# Local config
 .claude/
